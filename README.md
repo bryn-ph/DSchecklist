@@ -1,4 +1,4 @@
-# Soulsborne Checklist
+# Dark Souls Checklist
 
 Website created using React + Vite to track bosses defeated in the Dark Souls trilogy.
 
